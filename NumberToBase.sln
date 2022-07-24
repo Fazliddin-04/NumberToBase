@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberTobase", "basicNetFrameworkNCSharpTask\NumberTobase.csproj", "{D9600A65-9BB5-49EC-9BCB-3EEDF3246306}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A9676816-970D-4336-96E3-B0D375387142}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9600A65-9BB5-49EC-9BCB-3EEDF3246306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9600A65-9BB5-49EC-9BCB-3EEDF3246306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9600A65-9BB5-49EC-9BCB-3EEDF3246306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9600A65-9BB5-49EC-9BCB-3EEDF3246306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55FA69A0-7D1E-481F-88D1-EB4DA4A33F8F}
+	EndGlobalSection
+EndGlobal
